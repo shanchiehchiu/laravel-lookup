@@ -58,4 +58,4 @@ node examples/demo-app/tests/browser/product-lookup-e2e.js
 
 ## 授權
 
-待確認。
+本專案以 MIT 授權發布。詳見 `LICENSE`。
